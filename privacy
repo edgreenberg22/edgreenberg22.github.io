@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy - Smart Envelope AI</title>
+    <style>
+        body { font-family: -apple-system, sans-serif; line-height: 1.6; padding: 40px; max-width: 700px; margin: auto; color: #333; }
+        h1 { color: #007AFF; }
+        h2 { font-size: 1.2rem; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p>Last Updated: April 22, 2026</p>
+
+    <p>Smart Envelope AI is committed to protecting your privacy. This policy explains how we handle your information.</p>
+
+    <h2>1. Data Collection & Storage</h2>
+    <p>Smart Envelope AI does not store your personal data on any external servers. All receipt data, merchant names, and envelope totals are stored locally on your device or within your private iCloud storage.</p>
+
+    <h2>2. Processing (AI)</h2>
+    <p>When you use the AI features to scan a receipt, the data is sent securely to the Anthropic API for text extraction. This data is not used to train models and is not shared with third parties.</p>
+
+    <h2>3. Subscriptions</h2>
+    <p>All subscription payments and renewals are handled securely by Apple through the App Store. We do not have access to your credit card or billing information.</p>
+
+    <h2>4. Contact Us</h2>
+    <p>If you have any questions regarding your privacy, please contact: <strong>edgreenberg22@gmail.com</strong></p>
+</body>
+</html>
